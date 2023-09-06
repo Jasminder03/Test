@@ -1,5 +1,0 @@
-{{#user}}
-Name: Jasminder Singh
-Skills: HTML, CSS, JS, ReactJS, Django, Bootstrap, Java, Wordpress, Python, PHP
-Email: Jasminder003@yahoo.com
-{{/user}}
